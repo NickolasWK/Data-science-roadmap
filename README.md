@@ -48,7 +48,7 @@
     - [ ] Matplotlib (*)
     - [ ] Seaborn (*)
     - [ ] Boken (*)
-    - [ ] Scikit-Learn (*** изучать поле алгоритмов AI)
+    - [ ] Scikit-Learn (** изучать поле алгоритмов AI)
     - [ ] PM4Py (***)
     - [ ] PySpark + Apache Sparkle (***)
 - [ ] SQL (**)
